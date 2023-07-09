@@ -4,8 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Introduction to Programming Language 
+**Introduction to Programming Language**
 
-Principles of Botany
+**Principles of Botany**
 
-Introduction to Cell and Molecular Biology
+**Introduction to Cell and Molecular Biology**
