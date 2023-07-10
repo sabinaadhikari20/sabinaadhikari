@@ -1,8 +1,8 @@
----
-layout: page
-title: Life Journey
-permalink: /journey/
----
+#---
+#layout: page
+#title: Life Journey
+#permalink: /journey/
+#---
 
 **Nepal**
 
