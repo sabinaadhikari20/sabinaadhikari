@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About1
-permalink: /about/
+title: Future Project
+permalink: /project/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+**Project**
 
-You can find the the the the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+1. Research Center
+2. Outsourcing Company
+3. Website for homegoods
