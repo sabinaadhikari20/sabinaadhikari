@@ -28,4 +28,8 @@ In the race of allopathic medicines and making billions of money out of selling 
 
 **Outsourcing Company**
 
+Outsourcing company is popular in the developing countries. The developed countries are run through contractor and employees employed by the outsourcing companies in the developing nations such as South East countries. This provides an opportunity for people who don't want to travel overseas for the job and want to utilize their education in their country. Preserving this aspiration, one of the next upcoming projects is the establishment of an outsourcing company in Nepal. There are thousands of skilled people who have not got proper due for their caliberation. So, this outsourcing company will utilize their skills and appreciate them with the right payment and benefits. 
+
 **Website for homegoods**
+
+As a citizen of Nepal, who has seen the quality and the potential of Nepalese goods, I want to provide platform to all the small business owners to sell their products online both domestically and internationally. Apart from that, we will encourage the farmers and local vendors to sell their goods via our website. This will help in the economy of the country and the money flows around the country. There are many high quality products that deserve international sell. Thus, with that motive, we will create a highly functioning website to sell the authentic Nepali products locally and internationally.
