@@ -32,6 +32,6 @@ I spent my entire graduate program working on a research project that involved d
 
 #### Google Data Analytics Professional Certificate
 
-After my graduation, I enrolled in the Google Data Analytics Professional Certificate to enhance my understanding on data analysis. Please refer to the Certificate tab to learn more about my certificate.
+After my graduation, I enrolled in the Google Data Analytics Professional Certificate to enhance my understanding on data analysis. Please refer to the Certificate tab to learn more about my certificate. (/certificate.md)
 
 
