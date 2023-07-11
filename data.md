@@ -17,7 +17,7 @@ I worked as a Data Scientist Intern at Mattress Firm Inc in the summer of 2022. 
 - documenting the work, including data preprocessing steps, modeling techniques, and results, to ensure reproducibility and knowledge sharing within the team
 
 While I was working with the Data Engineering Team, my responsibilities included:
-- Building and maintaining data pipelines to extract, transform, and load (ETL) data from source systems to the data warehouse using Apache Airflow
+- building and maintaining data pipelines to extract, transform, and load (ETL) data from source systems to the data warehouse using Apache Airflow
 - ensuring the quality and integrity of data by implementing data validation rules, performing data profiling, and addressing data quality issues
 - assisting in the administration and maintenance of databases, including database monitoring, performance optimization, and troubleshooting
 - supporting data governance initiatives by implementing data security measures, ensuring compliance with data protection regulations, and assisting in the development of data privacy policies
@@ -25,7 +25,13 @@ While I was working with the Data Engineering Team, my responsibilities included
 - documenting data engineering processes, workflows, and data pipelines to ensure knowledge transfer and maintainability
 
 
+#### Graduate Research Assistant
+
+I spent my entire graduate program working on a research project that involved data analysis and data science. Please find the details in the Research & Training tab, under Graduate Research Assistant to learn more about my work as a research assistant. 
 
 
+#### Google Data Analytics Professional Certificate
+
+After my graduation, I enrolled in the Google Data Analytics Professional Certificate to enhance my understanding on data analysis. Please refer to the Certificate tab to learn more about my certificate.
 
 
