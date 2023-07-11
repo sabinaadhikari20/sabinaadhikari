@@ -33,4 +33,8 @@ Outsourcing company is popular in the developing countries. The developed countr
 **Website for homegoods**
 
 As a citizen of Nepal, who has seen the quality and the potential of Nepalese goods, I want to provide platform to all the small business owners to sell their products online both domestically and internationally. Apart from that, we will encourage the farmers and local vendors to sell their goods via our website. This will help in the economy of the country and the money flows around the country. There are many high quality products that deserve international sell. Thus, with that motive, we will create a highly functioning website to sell the authentic Nepali products locally and internationally.
+
+**Establishment of Industry**
+
+Nepal is in the dire need of industry. Lots of able people are emigrating to the neighbouring country like India or Gulf countries like Qatar, Saudi Arabia, UAE for job opportunities. This creates adverse effect in the economy of the country. People are facing discrimination, income bias, fradulent in the foreign land. They lack insurance and security in the foriegn land. They are forced to leave their homeland because of lack of jobs, less income, less opportunities. Thus, as an able citizen, I feel it's my duty to do something and at least try to create an opportunity to my fellow Nepali people.
 -->
