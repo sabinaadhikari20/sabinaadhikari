@@ -3,7 +3,7 @@ layout: page
 title: Future Project
 permalink: /project/
 ---
-
+<!--
 **Research Center**   
 
 The upcoming big project is the establishment of the Research Center in Nepal. Nepal is in rich natural resources, medicinal herbs, and tranquil atmosphere. The compilation of the tall standing mountain, green and rich carpented hilly, rippling flow of rivers, and flat and comfortable terai make Nepal the most beautiful, healthy, and serene place on Earth. This is a holy land, the birthplace of Lord Gautam Buddha, pious Mata Sita, and the religious ground of Pashupatinath, Swoyambhunath, Muktinath and many other spiritual and holy places.
@@ -33,3 +33,4 @@ Outsourcing company is popular in the developing countries. The developed countr
 **Website for homegoods**
 
 As a citizen of Nepal, who has seen the quality and the potential of Nepalese goods, I want to provide platform to all the small business owners to sell their products online both domestically and internationally. Apart from that, we will encourage the farmers and local vendors to sell their goods via our website. This will help in the economy of the country and the money flows around the country. There are many high quality products that deserve international sell. Thus, with that motive, we will create a highly functioning website to sell the authentic Nepali products locally and internationally.
+-->
