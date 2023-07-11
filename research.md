@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research & Teaching
-permalink: /research_teaching/
+permalink: /research/
 ---
 
 ### **Research**
