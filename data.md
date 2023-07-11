@@ -27,7 +27,7 @@ While I was working with the Data Engineering Team, my responsibilities included
 
 #### Graduate Research Assistant
 
-I spent my entire graduate program working on a research project that involved data analysis and data science. Please find the details in the [Research & Training](/research_training) to learn more about my work as a research assistant. 
+I spent my entire graduate program working on a research project that involved data analysis and data science. Please find the details in the [Research & Training](/research) to learn more about my work as a research assistant. 
 
 
 #### Google Data Analytics Professional Certificate
