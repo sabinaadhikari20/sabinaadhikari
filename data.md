@@ -34,4 +34,8 @@ I spent my entire graduate program working on a research project that involved d
 
 After my graduation, I enrolled in the Google Data Analytics Professional Certificate to enhance my understanding on data analysis. Please refer to the [Certificate](/certificate)  to learn more about my certificate.
 
+#### Data Science Competition
+
+In the collobaroation with Texas A&M Forest Service (TFS), the Texas A&M Institute of Data Science (TAMUIDS) organized 2023 Data Science Competition. It was a Wildfire Data Science Challenge. On that very event, I and my team participated in the competition and won one of the best Midway Visualizations in the competition.
+
 
