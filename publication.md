@@ -33,7 +33,7 @@ permalink: /publication/
  scheduling of these tasks to be NP-hard, and provide a pseudo-polynomial time scheduling algorithm. We then use this scheduling 
  algorithm to implement the first virtual real-time hybrid simulation experiment in which discrete elastic adaptation of platform 
  resource utilizations enables adaptive switching between controllers with differing computational demands. We also study the 
- effects of scheduling tasks with discretized vs. continuous candidate utilizations.   <br></br>
+ effects of scheduling tasks with discretized vs. continuous candidate utilizations.   <br>
 
 
 ####  2. FDA approved Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices: An updated 2022 landscape
@@ -47,7 +47,7 @@ permalink: /publication/
  Medical Devices according to the date of approval, medical specialty, implementation modality of Medical Devices, and anatomical 
  site of use. Our summary includes the current landscape of FDA approved AI/ML-Enabled Medical Devices till date and different FDA 
  approval pathways for medical devices which will help understand the overview of AI/ML-Enabled Medical Devices, and its overall 
- trends.   <br></br>
+ trends.   <br>
 
 
 ####  3. Genome and transcriptome dynamics of Amaranth species
