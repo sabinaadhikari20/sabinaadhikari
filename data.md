@@ -47,6 +47,7 @@ In the fall 2022, as a project for Software Engineering class, I and my team wor
 - multiple source to register
 - less security
 - manual entry of records
+  
 We noted the problems of stakeholders and delivered an interactive website to solve the issues. Here are the things we did for this project:
 - developed a website that read the uploaded CSV files and parsed the CSV files in the backend
 - included features like editing the student information, super searching the information
