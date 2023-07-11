@@ -14,7 +14,7 @@ After the graduation in MS in Computer Science from Texas A&M University, Colleg
 Here is a list of certificates for each course.
 1. Foundations: Data, Data, Everywhere: [Foundations_Data_Data_Everywhere.pdf](https://github.com/sabinaadhikari20/sabinaadhikari/files/12005870/Foundations_Data_Data_Everywhere.pdf)
    
-2. Ask Questions to make Data-Driven Decisions:[Ask_Questions_to_Make_Data-Driven_Decisions.pdf](https://github.com/sabinaadhikari20/sabinaadhikari/files/12005871/Ask_Questions_to_Make_Data-Driven_Decisions.pdf)
+2. Ask Questions to make Data-Driven Decisions: [Ask_Questions_to_Make_Data-Driven_Decisions.pdf](https://github.com/sabinaadhikari20/sabinaadhikari/files/12005871/Ask_Questions_to_Make_Data-Driven_Decisions.pdf)
 
 3. Prepare Data for Exploration: [Prepare_Data_For_Exploration.pdf](https://github.com/sabinaadhikari20/sabinaadhikari/files/12005872/Prepare_Data_For_Exploration.pdf)
 
