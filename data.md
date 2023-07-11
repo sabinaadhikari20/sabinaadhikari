@@ -39,3 +39,18 @@ After my graduation, I enrolled in the Google Data Analytics Professional Certif
 In the collobaroation with Texas A&M Forest Service (TFS), the Texas A&M Institute of Data Science (TAMUIDS) organized 2023 Data Science Competition. It was a Wildfire Data Science Challenge. On that very event, I and my team participated in the competition and won one of the best Midway Visualizations in the competition.
 
 
+#### Cybersecurity Project
+
+In the fall 2022, as a project for Software Engineering class, I and my team worked with the Department of Cybersecurity, Texas A&M University, College Station to help them develop an interacting website. Some of the problems they were having were:
+- inconsistent record keeping
+- duplicate records
+- multiple source to register
+- less security
+- manual entry of records
+We noted the problems of stakeholders and delivered an interactive website to solve the issues. Here are the things we did for this project:
+- developed a website that read the uploaded CSV files and parsed the CSV files in the backend
+- included features like editing the student information, super searching the information
+- implemented React on the front end and ruby-on-rails on the back end
+- deployed, managed, and scaled the apps using Heroku
+- utilized the Scrum Software development methodology
+The clients were satisfied with the work and the website is functioning at the moment.
