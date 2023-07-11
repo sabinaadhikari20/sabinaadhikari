@@ -4,10 +4,12 @@ title: Certificate
 permalink: /certificate/
 ---
 
-**Deep Learning Specialization**
+#### Deep Learning Specialization
+
 In the midst of COVID, when the world was terrorized by the nobel virus, when the hope to see a healthy world was blurring, I decided to enroll in a deep learning specialization certificate course to busy my mind in learning new skills. The certificate was issued in June 2020 by Coursera. Here is the certificate, [Deep_Learning_Specialization.pdf](https://github.com/sabinaadhikari20/sabinaadhikari/files/12005857/Deep_Learning_Specialization.pdf).
 
-**Google Data Analytics Professional Certificate**
+#### Google Data Analytics Professional Certificate
+
 After the graduation in MS in Computer Science from Texas A&M University, College Station, I decided to enroll in the Google Data Analytics Professional Certificate course to enhance my knowledge in data science and analytics. With my prior research experience in data science, pursuing certificates in data analysis would add more credibility to my ability in data science and analytics. In June 2023, I obtained the Google Data Analytics Professional Certificate.
 Here is a list of certificates for each course.
 1. Foundations: Data, Data, Everywhere: [Foundations_Data_Data_Everywhere.pdf](https://github.com/sabinaadhikari20/sabinaadhikari/files/12005870/Foundations_Data_Data_Everywhere.pdf)
