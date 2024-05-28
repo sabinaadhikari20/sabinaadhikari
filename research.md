@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research & Teaching
+title: Research
 permalink: /research/
 ---
 
