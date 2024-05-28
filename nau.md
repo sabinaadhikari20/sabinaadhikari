@@ -39,7 +39,7 @@ I worked as a Graduate Teaching Assistant for Introduction to Programming Langua
 - assisting with administrative tasks related to the course, such as plagiarism check, maintaining attendance records, organizing course materials, and coordination with other teaching assistants and faculty members.
 At the end of an academic year, I got awarded with the Graduate Teaching Assistant Excellence Award. 
 
-####Stephen F. Austin State University
+#### Stephen F. Austin State University
 ### Principles of Botany
 
 I worked as an Undergraduate Teaching Assistant for Principles of Botany (BIO 131L) at Stephen F. Austin State University, Nacogdoches, for Spring 2018, Fall 2018, Spring 2019, and Fall 2019. I conducted 2 lab classes each semester for 2 academic years with the average of 50 students each. My main responsibilities included:
