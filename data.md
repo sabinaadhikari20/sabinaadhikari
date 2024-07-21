@@ -4,7 +4,7 @@ title: Data
 permalink: /data/
 ---
 
-#### Data Scientist Intern
+#### **Data Scientist Intern**
 
 I worked as a Data Scientist Intern at Mattress Firm Inc in the summer of 2022. I was in a rotation program where I worked with Data Science team, Data Engineering Team, and Forecasting Team for a month each. Some of the responsibilities included:
 - cleaning and organizing data
@@ -25,7 +25,7 @@ While I was working with the Data Engineering Team, my responsibilities included
 - documenting data engineering processes, workflows, and data pipelines to ensure knowledge transfer and maintainability
 
 
-#### Graduate Research Assistant
+#### **Graduate Research Assistant**
 
 I spent my entire graduate program working on a research project that involved data analysis and data science. Please find the details in the [Research & Training](/research) to learn more about my work as a research assistant. 
 
@@ -34,12 +34,12 @@ I spent my entire graduate program working on a research project that involved d
 
 After my graduation, I enrolled in the Google Data Analytics Professional Certificate to enhance my understanding on data analysis. Please refer to the [Certificate](/certificate)  to learn more about my certificate.
 
-#### Data Science Competition
+#### **Data Science Competition**
 
 In the collobaroation with Texas A&M Forest Service (TFS), the Texas A&M Institute of Data Science (TAMUIDS) organized 2023 Data Science Competition. It was a Wildfire Data Science Challenge. On that very event, I and my team participated in the competition and won one of the best Midway Visualizations in the competition.
 
 
-#### Cybersecurity Project
+#### **Cybersecurity Project**
 
 In the fall 2022, as a project for Software Engineering class, I and my team worked with the Department of Cybersecurity, Texas A&M University, College Station to help them develop an interacting website. Some of the problems they were having were:
 - inconsistent record keeping
