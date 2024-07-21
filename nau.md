@@ -1,12 +1,12 @@
 ---
 layout: page
-title: North American University
+title: **North American University**
 permalink: /nau/
 ---
 
 ### **Teaching**
 
-#### North American University
+#### **North American University**
 - **COMP 4353: Data Mining**
     Cr. 3. (3-0). This course introduces fundamental topics of data mining and knowledge discovery, including statistical foundations,   
     database support, data preprocessing, data warehousing, association discovery, classification, clustering, and mining complex data types.
