@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **North American University**
+title: North American University
 permalink: /nau/
 ---
 
